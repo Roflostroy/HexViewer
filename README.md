@@ -19,6 +19,6 @@
 ## Установка
 
 ```bash
-git clone https://github.com/Roflostroy/Hex.git
-cd Hex
-chmod +x hex.sh
+git clone https://github.com/Roflostroy/HexViewer.git
+cd HexViewer
+chmod +x HexViewer
