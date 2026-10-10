@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Введите название файла";
+read -r file;
+if [ -e "$file" ];
+then
+xxd "$file"
+else
+echo "Файл не найден"
+fi 
